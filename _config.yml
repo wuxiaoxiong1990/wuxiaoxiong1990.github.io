@@ -99,13 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书",
-        href: "https://www.jianshu.com/u/7cbd5f205919"
+        title: "豆瓣",
+        href: "https://www.douban.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Google",
+        href: "https://www.google.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "NPU",
+        href: "http://www.nwpu.edu.cn/"
     }
 ]
