@@ -88,7 +88,6 @@ for line in val:
         f.write("{0:10.3f}".format(ele))
     f.write( '\n')
 f.close()
-···
 ```
 # 4. 结果
 若example_output.dat与fortran_output.dat数组不同，且前者input array行主序正好与后者的列主序相同，则说明数组按C语言格式传递至子程序中。
