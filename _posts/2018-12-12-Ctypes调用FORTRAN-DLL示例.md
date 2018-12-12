@@ -7,10 +7,10 @@ author:     蘑菇熊
 header-img: img/post-bg-code.jpg
 catalog: true
 tags:
-    - python调用Fortran
+    - python
+    - Fortran
     - Ctypes
-    - Fortran生成DLL
-    - ndarray类型
+    - DLL
 ---
 
 # 1. FORTRAN函数 示例my_exam.f90
