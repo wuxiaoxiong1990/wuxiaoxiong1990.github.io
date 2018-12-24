@@ -103,6 +103,7 @@ Enjoy it!
     "fast_open": false
 }
 ```
+> 若要开启IPv6代理，则第一行改为 `"server":"::",`
 
 使用命令（2015 年 08 月 28 日修正）：
 启动：/etc/init.d/shadowsocks start
