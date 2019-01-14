@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:         Python环境变量PYTHONPATH设置、导入第三方模块
+title:     Python环境变量PYTHONPATH设置导入第三方模块
 subtitle:  修改环境变量路径以便导入模块
 date:       2018-03-06
 author:     转载
 header-img: img/post-bg-python.jpeg
 catalog: true
 tags:
-​    - python
+    - python
 ---
 
 # 1.暂时设置模块的搜索路径——修改sys.path
