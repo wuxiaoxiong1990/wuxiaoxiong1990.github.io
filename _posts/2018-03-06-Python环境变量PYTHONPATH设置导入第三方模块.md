@@ -1,4 +1,4 @@
-___
+---
 layout:     post
 title:         Python环境变量PYTHONPATH设置、导入第三方模块
 subtitle:  修改环境变量路径以便导入模块
@@ -8,8 +8,7 @@ header-img: img/post-bg-python.jpeg
 catalog: true
 tags:
 ​    - python
-
-___
+---
 
 # 1.暂时设置模块的搜索路径——修改sys.path
   我们在导入模块的时候，python会在指定的路径下搜索相对应的.py文件，搜索路径存放在sys模块的sys.path变量中，如下图
