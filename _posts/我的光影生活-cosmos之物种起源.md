@@ -1,0 +1,18 @@
+---
+title: '我的光影生活:cosmos之物种起源'
+date: 2019-03-15 21:20:27
+tags:
+   - 随笔
+---
+
+刚刚晚被英语和大姨妈虐地头疼肚子疼，想干点别的。由于昨天刚看过星际碰撞，就想重温泰森的cosmos。随手打开一集，物种起源。看完之后头不疼了肚子也不疼了😄。
+
+Origin of species, natural selection, evolution.....accepting our kinship with all life on earth is not only solid science. In my view, it's also a soaring spiritual experience.
+
+Four billion years in 40 seconds, from creatures who had yet to discern day from night to beings who are exploring the cosmos.
+
+| ![img](https://img3.doubanio.com/view/note/large/public/p36882062.jpg) |
+| ------------------------------------------------------------ |
+|                                                              |
+
+听到背景音乐，看到那些画面，依然那么激动\(≧▽≦)/~晚上继续fighting~
