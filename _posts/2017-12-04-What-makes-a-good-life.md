@@ -15,6 +15,7 @@ More than a century ago, Mark Twain was looking back on his life and he wrote th
 时光荏苒，生命短暂，别将时间浪费在争吵、道歉、伤心和责备上，用时间去爱吧，哪怕只有一瞬间，也不要辜负。
 
 ![](https://raw.githubusercontent.com/wuxiaoxiong1990/pic/master/71717971ly1g14tlf6sw3j20u0140hdu.jpg)
+
 <center>从青丝</centerr>
 
 ![](https://raw.githubusercontent.com/wuxiaoxiong1990/pic/master/71717971ly1g14tsmcjpqj20u00mi1kx.jpg)
